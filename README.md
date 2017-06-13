@@ -11,7 +11,7 @@ Spongify your strings by making them as obnoxious as possible.  Memes.
 
   ```javascript
   let spongify = require('spongify').convert,
-      myString = 'Hello World',
+      myString = 'Leave me alone!',
       spongifiedString = spongify(myString)
 
   console.log("myString: " + myString + ", spongifiedString: " + spongifiedString)
