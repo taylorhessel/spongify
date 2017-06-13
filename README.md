@@ -10,10 +10,9 @@ Spongify your strings by making them as obnoxious as possible.  Memes.
 ## Usage
 
   ```
-  let spongify = require('spongify'),
-      convert = spongify.convert,
+  let spongify = require('spongify').convert,
       myString = 'Hello World',
-      spongifiedString = convert(myString)
+      spongifiedString = spongify(myString)
 
   console.log("myString: " + myString + ", spongifiedString: " + spongifiedString)
   ```
