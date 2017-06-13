@@ -9,7 +9,7 @@ Spongify your strings by making them as obnoxious as possible.  Memes.
 
 ## Usage
 
-  ```
+  ```javascript
   let spongify = require('spongify').convert,
       myString = 'Hello World',
       spongifiedString = spongify(myString)
