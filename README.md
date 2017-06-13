@@ -15,7 +15,7 @@ Spongify your strings by making them as obnoxious as possible.  Memes.
       myString = 'Hello World',
       spongifiedString = convert(myString)
 
-  console.log(``myString: ${myString}, spongifiedString: ${spongifiedString}``)
+  console.log("myString: " + myString + ", spongifiedString: " + spongifiedString)
   ```
 
 ## Tests
