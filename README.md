@@ -1,7 +1,7 @@
 Spongify
 =========
 
-Spongify your strings by making them as obnoxious as possible.  Memes.
+Spongify your strings by making them as obnoxious as possible.
 
 ## Installation
 

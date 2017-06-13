@@ -1,7 +1,7 @@
 {
   "name": "spongify",
   "version": "1.0.0",
-  "description": "Function for spongifying strings.",
+  "description": "Spongify your strings by making them as obnoxious as possible.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
