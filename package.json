@@ -1,0 +1,28 @@
+{
+  "name": "spongify",
+  "version": "1.0.0",
+  "description": "Function for spongifying strings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylorhessel/spongify.git"
+  },
+  "keywords": [
+    "string",
+    "spongebob",
+    "meme"
+  ],
+  "author": "Taylor Hessel <taylorhessel@gmail.com> (http://www.taylorhessel.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taylorhessel/spongify/issues"
+  },
+  "homepage": "https://github.com/taylorhessel/spongify#readme",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
